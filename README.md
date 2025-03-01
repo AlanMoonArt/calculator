@@ -2,6 +2,8 @@
 
 Uma calculadora funcional desenvolvida em JavaScript, HTML e CSS, permitindo cálculos básicos através de cliques nos botões e entrada via teclado.
 
+# 🔍 Veja o Projeto: https://alanmoonart.github.io/calculator/
+
 ## 🚀 Funcionalidades
 
 - Suporte a operações básicas: adição, subtração, multiplicação e divisão.
